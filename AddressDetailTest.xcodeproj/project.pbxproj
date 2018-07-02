@@ -13,7 +13,6 @@
 		EB7CCCEB20E8C43F00FCC6B5 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EB7CCCE920E8C43F00FCC6B5 /* Main.storyboard */; };
 		EB7CCCED20E8C44000FCC6B5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EB7CCCEC20E8C44000FCC6B5 /* Assets.xcassets */; };
 		EB7CCCF020E8C44000FCC6B5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EB7CCCEE20E8C44000FCC6B5 /* LaunchScreen.storyboard */; };
-		EBB85D8B20EADFB6009E8BEF /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = EBB85D8A20EADFB6009E8BEF /* .gitignore */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,7 +26,6 @@
 		EB7CCCEC20E8C44000FCC6B5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EB7CCCEF20E8C44000FCC6B5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		EB7CCCF120E8C44000FCC6B5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		EBB85D8A20EADFB6009E8BEF /* .gitignore */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,7 +60,6 @@
 		EB7CCCD920E8C43F00FCC6B5 = {
 			isa = PBXGroup;
 			children = (
-				EBB85D8A20EADFB6009E8BEF /* .gitignore */,
 				EB7CCCE420E8C43F00FCC6B5 /* AddressDetailTest */,
 				EB7CCCE320E8C43F00FCC6B5 /* Products */,
 				22E9439DDE14BFA63B1340CD /* Pods */,
@@ -152,7 +149,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				EBB85D8B20EADFB6009E8BEF /* .gitignore in Resources */,
 				EB7CCCF020E8C44000FCC6B5 /* LaunchScreen.storyboard in Resources */,
 				EB7CCCED20E8C44000FCC6B5 /* Assets.xcassets in Resources */,
 				EB7CCCEB20E8C43F00FCC6B5 /* Main.storyboard in Resources */,
